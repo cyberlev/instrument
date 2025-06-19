@@ -1,7 +1,5 @@
 <?php
 
-// Testing webhooks
-
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
